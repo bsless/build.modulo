@@ -1,0 +1,1 @@
+{:hooks {:macroexpand {bsless.build.modulo/modo bsless.build.modulo/modo}}}
